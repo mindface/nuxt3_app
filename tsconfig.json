@@ -1,0 +1,8 @@
+{
+  // https://v3.nuxtjs.org/concepts/typescript
+  "compilerOptions":{
+    // "jsx": "preserve", 
+    "experimentalDecorators": true
+  },
+  "extends": "./.nuxt/tsconfig.json"
+}
